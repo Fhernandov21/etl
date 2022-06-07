@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SISTEMA25_SQLSERVER2019.DWAseguradora.sa"
+  DTS:DTSID="{DAEBA6DE-014F-40AF-9E64-289E6DBD2704}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=SISTEMA25\SQLSERVER2019;User ID=sa;Initial Catalog=DWAseguradora;Provider=SQLNCLI11.1;Persist Security Info=True;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAlF9N58sXYU2ZhBGMwxT3+AAAAAACAAAAAAAQZgAAAAEAACAAAABCRlfLbE+wFwTCdB7LUnNeDUMjmPQ4y2743gMgsK25TgAAAAAOgAAAAAIAACAAAAAvlN+3sqCv3wjbR6mGaskoYXxdEXj5iw4VDdZ4xQi7G4AAAADn3qi3aClFLqtXjJE/12bR5nP62QyGHKHZE1VOsNhw2qPKvQ/vre6Kh8o7bgZP1PL1ANRaofnslX7/zFgSQMuX/Mn2KgrzWfqe3Dd6G/WZSLSxTNiU81FEqy3n5/7k4w5ZdfBkqsGpQNKSL1x4CWAs+YJDkNYnThxjte72sDkw2UAAAACqs4YkJTkCLCCjyOWXG9GnOh7ROnabli5sPPXIWVRikzUlKc+Tak80sOlLcHl31xBioqAQBjPJPrEXQ9B4erBB</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
